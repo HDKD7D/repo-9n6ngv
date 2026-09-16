@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: sottilepj@aol.com, zanasheileen@aol.com
-At: 2026-09-16 17:17:40
-Id: GScp6OkJ
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: peruchov@hotmail.com, daviskl25@comcast.net
+At: 2026-09-16 17:18:19
+Id: vM4M0msB
